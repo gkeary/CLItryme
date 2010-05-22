@@ -1,0 +1,2 @@
+SSName                           Precedence    Port    Service     LHandle
+specdev                          10            0xbeef  0x10101     0x100000  

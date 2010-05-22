@@ -1,0 +1,124 @@
+0x10cdb8    172.16.128.47_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10cd9d    172.16.128.28_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10cd82    172.16.128.30_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10cd67    172.16.128.29_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10cd4c    172.16.128.27_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10cd24    172.16.120.230_Gen Bridge App                                 0x4a0000    Gen_Bridge_App
+0x10cd1e    172.16.120.232_Gen Bridge App                                 0x4a0000    Gen_Bridge_App
+0x10c674    172.31.94.229_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10c640    172.31.94.226_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10c621    172.31.94.233_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10c602    172.31.94.227_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10c550    172.31.94.231_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10c326    172.31.62.9_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10c306    172.31.62.4_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10c2e6    172.31.62.8_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10c2c8    172.31.62.5_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10c2aa    172.31.62.10_Gen Bridge App                                   0x4a0000    Gen_Bridge_App
+0x10c28c    172.31.62.6_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10c26e    172.31.62.3_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10c250    172.31.62.7_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10c230    172.31.62.2_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10c208    172.31.96.230_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10c202    172.31.96.232_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10c0b8    172.25.120.1_Gen Bridge App                                   0x4a0000    Gen_Bridge_App
+0x10c01e    172.25.123.12_Gen Bridge App                                  0x4a0000    Gen_Bridge_App
+0x10bfe5    053s-portland-mpls-rtr1_Gen Bridge App                        0x4a0000    Gen_Bridge_App
+0x10bfb9    172.25.123.7_Gen Bridge App                                   0x4a0000    Gen_Bridge_App
+0x10bb74    10.7.20.198_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10b989    10.7.20.193_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10b868    10.7.20.222_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10b83d    10.7.20.221_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10b807    10.7.20.197_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10b7e5    10.7.20.196_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10b7c5    10.7.20.195_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10b715    10.7.20.194_Gen Bridge App                                    0x4a0000    Gen_Bridge_App
+0x10b203    172.25.7.226_Gen Bridge App                                   0x4a0000    Gen_Bridge_App
+0x10b1f4    172.25.7.230_Gen Bridge App                                   0x4a0000    Gen_Bridge_App
+0x10b176    172.25.7.228_Gen Bridge App                                   0x4a0000    Gen_Bridge_App
+0x10b167    172.25.7.229_Gen Bridge App                                   0x4a0000    Gen_Bridge_App
+0x10b158    172.25.7.227_Gen Bridge App                                   0x4a0000    Gen_Bridge_App
+0x10b148    172.25.7.225_Gen Bridge App                                   0x4a0000    Gen_Bridge_App
+0x109aab    085a-distribution-a-sw.lmig.com_Gen Bridge App                0x4a0000    Gen_Bridge_App
+0x1097bc    085a-mpls-v-rtr2.lmig.com_Gen Bridge App                      0x4a0000    Gen_Bridge_App
+0x109433    0544-brentwood-mpls-rtr1.lmig.com_Gen Bridge App              0x4a0000    Gen_Bridge_App
+0x10908b    test_Gen Bridge App                                           0x4a0000    Gen_Bridge_App
+0x108ff0    0878-2950-sw1.lmig.com_Gen Bridge App                         0x4a0000    Gen_Bridge_App
+0x108fc3    0878-g700.lmig.com_Gen Bridge App                             0x4a0000    Gen_Bridge_App
+0x108b78    0055-MPLS-V-RTR2.lmig.com_Gen Bridge App                      0x4a0000    Gen_Bridge_App
+0x108723    njbond.ohio-casualty.com_Gen Bridge App                       0x4a0000    Gen_Bridge_App
+0x108635    0055-isci-sw1.lmig.com_Gen Bridge App                         0x4a0000    Gen_Bridge_App
+0x1085d0    catalyst-switch-decnet.lmig.com_Gen Bridge App                0x4a0000    Gen_Bridge_App
+0x1083fe    0055-NONPROD-A.lmig.com_Gen Bridge App                        0x4a0000    Gen_Bridge_App
+0x10820f    0055-nonprod-b-lo0.lmig.com_Gen Bridge App                    0x4a0000    Gen_Bridge_App
+0x1077dd    0055-DR-6509-SW.lmig.com_Gen Bridge App                       0x4a0000    Gen_Bridge_App
+0x10769a    0055-dist-m-sw1.lmig.com_Gen Bridge App                       0x4a0000    Gen_Bridge_App
+0x107500    0055-dist-n-sw1.lmig.com_Gen Bridge App                       0x4a0000    Gen_Bridge_App
+0x1073f1    WAN2-TokenRing.ohio-casualty.com_Gen Bridge App               0x4a0000    Gen_Bridge_App
+0x106664    030C-SantiagoChile-lihi-rtr1.lmig.com_Gen Bridge App          0x4a0000    Gen_Bridge_App
+0x1065f0    0936-WESTMINSTER-mpls-rtr1.lmig.com_Gen Bridge App            0x4a0000    Gen_Bridge_App
+0x1065c0    0878-WESTERVILLE-mpls-rtr1.lmig.com_Gen Bridge App            0x4a0000    Gen_Bridge_App
+0x106590    0849-MURRYSVILLE-mpls-rtr1.lmig.com_Gen Bridge App            0x4a0000    Gen_Bridge_App
+0x106560    0860-COLUMBUS-mpls-rtr1.lmig.com_Gen Bridge App               0x4a0000    Gen_Bridge_App
+0x10652b    0451-KANSASCITY-mpls-rtr1.lmig.com_Gen Bridge App             0x4a0000    Gen_Bridge_App
+0x1064fb    0388-NORTHWALES-mpls-rtr1.lmig.com_Gen Bridge App             0x4a0000    Gen_Bridge_App
+0x1064cb    0172-RAYNHAM-mpls-rtr1.lmig.com_Gen Bridge App                0x4a0000    Gen_Bridge_App
+0x106447    0029-PORTSMOUTH-mpls-rtr1.lmig.com_Gen Bridge App             0x4a0000    Gen_Bridge_App
+0x1063ce    0009-Hopkinton-mpls-rtr1.lmig.com_Gen Bridge App              0x4a0000    Gen_Bridge_App
+0x10639e    0124-FARMINGTON-mpls-rtr1.lmig.com_Gen Bridge App             0x4a0000    Gen_Bridge_App
+0x106371    0055-VPN-LM-RTR1_Gen Bridge App                               0x4a0000    Gen_Bridge_App
+0x106313    0055-Portsmouth-MPLS-rtr2.lmig.com_Gen Bridge App             0x4a0000    Gen_Bridge_App
+0x1062bf    0055-lexnet-rtr4.lmig.com_Gen Bridge App                      0x4a0000    Gen_Bridge_App
+0x106295    0055-Portsmouth-MPLS-rtr1.lmig.com_Gen Bridge App             0x4a0000    Gen_Bridge_App
+0x10626c    0055-saa-router_Gen Bridge App                                0x4a0000    Gen_Bridge_App
+0x106243    0055-Investments-2651.lmig.com_Gen Bridge App                 0x4a0000    Gen_Bridge_App
+0x1060fe    016C-4507R-1A-SW2_Gen Bridge App                              0x4a0000    Gen_Bridge_App
+0x105e81    016C-core-sw2.lmig.com_Gen Bridge App                         0x4a0000    Gen_Bridge_App
+0x105e5e    016C-4507R-1A-SW1_Gen Bridge App                              0x4a0000    Gen_Bridge_App
+0x105cf4    016C-core-sw1.lmig.com_Gen Bridge App                         0x4a0000    Gen_Bridge_App
+0x105c9a    085a-mpls-v-rtr1_Gen Bridge App                               0x4a0000    Gen_Bridge_App
+0x105c50    085a-mpls-a-rtr2.lmig.com_Gen Bridge App                      0x4a0000    Gen_Bridge_App
+0x105c01    085a-mpls-a-rtr1.lmig.com_Gen Bridge App                      0x4a0000    Gen_Bridge_App
+0x105bca    0055-MPLS-V-RTR2.lmig.com_Gen Bridge App                      0x4a0000    Gen_Bridge_App
+0x105b98    0055-mpls-v-rtr1.lmig.com_Gen Bridge App                      0x4a0000    Gen_Bridge_App
+0x105b1c    0055-mpls-a-rtr2_Gen Bridge App                               0x4a0000    Gen_Bridge_App
+0x105a9b    0055-MPLS-A-RTR1_Gen Bridge App                               0x4a0000    Gen_Bridge_App
+0x105a68    0179-Westborough-mpls-rtr1.lmig.com_Gen Bridge App            0x4a0000    Gen_Bridge_App
+0x105a07    0336-HUNTVALLEY-mpls-rtr1.lmig.com_Gen Bridge App             0x4a0000    Gen_Bridge_App
+0x105967    0856-SouthHills-MPLS-rtr1.lmig.com_Gen Bridge App             0x4a0000    Gen_Bridge_App
+0x10589d    0055-CORE-B.lmig.com_Gen Bridge App                           0x4a0000    Gen_Bridge_App
+0x1057d1    0055-core-a-loopback.lmig.com_Gen Bridge App                  0x4a0000    Gen_Bridge_App
+0x1055f2    0055-WAN-Choke-rtr1.lmig.com_Gen Bridge App                   0x4a0000    Gen_Bridge_App
+0x1042dd    0007-loveland-mpls-rtr2_Gen Bridge App                        0x4a0000    Gen_Bridge_App
+0x103bf3    0969-Indianapolis-mpls-rtr1.lmig.com_Gen Bridge App           0x4a0000    Gen_Bridge_App
+0x1032c8    0645-ELKO-mpls-rtr1.lmig.com_Gen Bridge App                   0x4a0000    Gen_Bridge_App
+0x10314a    0621-SCOTTSDALE-mpls-rtr1.lmig.com_Gen Bridge App             0x4a0000    Gen_Bridge_App
+0x1030bc    0948-THEWOODLANDS-mpls-rtr1.lmig.com_Gen Bridge App           0x4a0000    Gen_Bridge_App
+0x102d37    0567-LAKELAND-mpls-rtr1.lmig.com_Gen Bridge App               0x4a0000    Gen_Bridge_App
+0x102b04    0190-EAGAN-mpls-rtr1.lmig.com_Gen Bridge App                  0x4a0000    Gen_Bridge_App
+0x102952    0351-WASHINGTON-mpls-rtr1.lmig.com_Gen Bridge App             0x4a0000    Gen_Bridge_App
+0x10278a    0147-WESTLEBANON-mpls-rtr1.lmig.com_Gen Bridge App            0x4a0000    Gen_Bridge_App
+0x102625    0117-NORTHANDOVER-mpls-rtr1.lmig.com_Gen Bridge App           0x4a0000    Gen_Bridge_App
+$ show models | grep -i 'gen_bridge_app' | wc
+     210    1260   21630
+$ $$
+ksh: 5688:  not found
+$ history
+372     show models mhr=0x102fff-0x103fff | wc
+373     show models mhr=0x103000-0x103fff | wc
+374     show models mhr=0x103f00-0x103fff | wc
+375     show models mhr=0x103f00-0x103fff
+376     show models mhr=0x103f00-0x103fff
+377     show models | grep mname=vanna
+378     show models | grep mname=specdev
+379     show models | grep mname
+380     show models | grep -i mname
+381     show models | more
+382     shoe models | grep -i 'policymanager'
+383     show models | grep -i 'policymanager'
+384     show models | grep -i 'gen_bridge_app'
+385     show models | grep -i 'gen_bridge_app' | wc
+386     $$
+387     history
+$
+
